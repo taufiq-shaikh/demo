@@ -1,0 +1,45 @@
+Aricles:-
+single post photo : w-613px h-388px
+four post photo : w-325px h-216px
+nine post photo : w-211px h-140px
+strip post photo : w-262px h-175px
+
+All arctile post photo : w-613px h-402px
+
+Main arctile :-
+post photo(LP) : w-478px h-318px
+Our related recommendations photos: w-75 h-70
+
+Videos:-
+single post video : w-613px h-402px
+four post video : w-325px h-216px
+nine post video : w-211px h-140px
+strip post video : w-262px h-175px
+
+Main video post : w-758px h-404px
+slider(at bottom):- w-162px h-92px
+
+Q&A:-
+single post video : w-613px h-402px
+four post video : w-325px h-216px
+nine post video : w-211px h-140px
+strip post video : w-262px h-175px
+
+Main post photo(LP) : w-478px h-318px
+
+POLL:-
+main post :-
+LP : w-478px h-318px
+inside photo : w-225px h-150px
+
+Photo Essay post:-
+main post:-
+main photo : w-730px h-480px
+thumbs photo : w-120px h-80px
+
+
+
+
+
+
+
